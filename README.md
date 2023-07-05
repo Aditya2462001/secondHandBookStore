@@ -1,6 +1,10 @@
 # secondHandBookStore
-Second Hand Book Store is an innovative project that aims to provide a convenient and efficient online platform for users to purchase second hand books. Second Hand Book Store enables users to browse a wide range of products, add product in cart. The application is built with the help of Java, Spring Boot REST, MySQL and React with Bootstrap.
+
+Second-Hand Book Store is an innovative project that aims to provide a convenient and efficient online platform for users to purchase second-hand books. Second-Hand Book Store enables users to browse a wide range of products and add products to the cart. The application is built with the help of Java, Spring Boot REST, MySQL, and React with Bootstrap.
+
+## Flow Diagram
 ![flow-diagram](https://github.com/Aditya2462001/secondHandBookStore/assets/63384884/82ab9653-0618-4008-98a1-0d0805d6cff2)
+
 ## User Dashboard 
 ![home](https://github.com/Aditya2462001/secondHandBookStore/assets/63384884/2d9fe5fe-6abc-4881-adca-f19276c7ed6e)
 ![sign-up](https://github.com/Aditya2462001/secondHandBookStore/assets/63384884/24a02e3c-c239-4a62-be52-dda84b4c422e)
@@ -9,6 +13,7 @@ Second Hand Book Store is an innovative project that aims to provide a convenien
 ![single product](https://github.com/Aditya2462001/secondHandBookStore/assets/63384884/5262f45d-6df0-4a74-83b8-a0c7318119b9)
 ![cart](https://github.com/Aditya2462001/secondHandBookStore/assets/63384884/c2c26836-0e50-43bb-b331-04768868a108)
 ![account](https://github.com/Aditya2462001/secondHandBookStore/assets/63384884/96863b43-00c0-4046-9e6f-263fbdc1988d)
+
 ## Admin Dashboard
 ![admin-home-allproducts](https://github.com/Aditya2462001/secondHandBookStore/assets/63384884/ab928508-3f9e-4e9c-9b1a-020d1c1a8787)
 ![admin-add-product(Book)](https://github.com/Aditya2462001/secondHandBookStore/assets/63384884/3299ae28-e4b0-4f72-97bf-6d3357f93c67)
